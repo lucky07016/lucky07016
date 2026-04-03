@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hy! My name is Lucky kumar and i am the student of Bachelor of Technology (IT).<br>So, I am the full stack devloper in which i use the Technology for frontend which is <br>HTML, CSS and the JavaScript and for backend i use python, JavaScript etc.<br>and for Databases querry i know about the SQL, MongoDB.<br>NOw, Apart from Tech Stack my hobby is i am Fitness influencer and gym enthuasits
+I’m Lucky Kumar, a Bachelor of Technology (IT) student and an aspiring Full Stack Developer.
+I work with frontend technologies like HTML, CSS, and JavaScript to build responsive and user-friendly interfaces. On the backend, I use Python and JavaScript to develop scalable applications. I also have experience working with databases such as SQL and MongoDB.
+Beyond technology, I’m passionate about fitness. I’m a fitness influencer and gym enthusiast, consistently working on building discipline, strength, and a strong personal brand.
 
 
 ## 🌐 Socials:
